@@ -1,0 +1,7 @@
+
+Employee ID       >>> 123
+Employee Saumyaya     >>> Saumya
+Employee Contact  >>> 9354881181
+Email Information >>> SAUMYA@GMAIL.COM
+Employee position >>> 6
+Employee Salary   >>> 40K
